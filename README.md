@@ -42,10 +42,10 @@ Open and run `marketing_campaign_analysis.ipynb` to perform:
 
 ## Intereactive Tableau Dashboard
 
-<div class='tableauPlaceholder' id='viz1751573574130' style='position: relative'><noscript><a href='#'><img alt='Marketing Analytics Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MarketingAnalyticsDashboard_17496729206370&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MarketingAnalyticsDashboard_17496729206370&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MarketingAnalyticsDashboard_17496729206370&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1751573574130');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1377px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+![Marketing Analytics Dashboard](dashboard/marketing_analytics_dashboard.png)
 
-**Or view it directly on Tableau Public:**  
-[Open the dashboard in a new tab](https://public.tableau.com/views/MarketingAnalyticsDashboard_17496729206370/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**[Click here to view the interactive dashboard on Tableau Public](https://public.tableau.com/views/MarketingAnalyticsDashboard_17496729206370/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
 
 ## Key Insights
 - **Social Media** delivers the highest conversion rate (0.1066) and the lowest cost per acquisition (~$46.6K).  
